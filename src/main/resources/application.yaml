@@ -1,0 +1,8 @@
+server:
+  port: 8191
+logging:
+  level:
+    org.apache.tomcat: DEBUG
+    org.apache.catalina: DEBUG
+    org.springframework:
+      security: DEBUG
